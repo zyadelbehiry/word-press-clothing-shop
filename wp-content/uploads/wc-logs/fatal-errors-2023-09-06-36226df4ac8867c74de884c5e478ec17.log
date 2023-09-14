@@ -1,0 +1,4 @@
+2023-09-06T11:31:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Clothing store\wp-content\plugins\elementor\modules\promotions\admin-menu-items\base-promotion-item.php on line 9
+
+2023-09-06T12:42:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Clothing store\wp-admin\includes\file.php on line 16
+
